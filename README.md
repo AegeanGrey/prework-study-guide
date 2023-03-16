@@ -33,6 +33,10 @@ git@github.com:AegeanGrey/prework-study-guide.git
 
 code .
 
+## Usage
+
+This webpage is best utilized for studying purposes and is free to utilize in helping strengthen foundations for coding
+
 ## Credits
 
 Created by AegeanGrey/Todd D.
