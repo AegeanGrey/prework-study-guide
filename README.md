@@ -21,6 +21,7 @@ To just access the webpage follow the url:
 To pull the environment onto your side you can do the following:
 
 1.) Copy the SSH or HTTPS Key for the Repository by selecting the green "Code" button
+
 2.) go to Git or GitBash to clone the repo by entering the following into the command terminal:
 
 git clone git@github.com:profile-name/repo-name.git
