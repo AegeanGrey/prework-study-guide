@@ -69,8 +69,11 @@ If you're unsure where to start your studying or just want to review notes at ra
 Here's how to use it:
 
 1.) Open the Prework Study Guide Webpage
+
 2.) Right Click anywhere on the page and select, "Inspect Element" or "Ctrl + Shift + C" on Windows
+
 3.) On the pop-up to the right hand side of the page towards the top, you should see that your on the "Element" Tab.
+
 4.) Click on the "Console" Tab
 
 You should then see all of the available topics on webpage and which one it recommends to study! 
